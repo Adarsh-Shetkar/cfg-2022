@@ -1,0 +1,19 @@
+.footer{
+    text-align: center;
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+}
+
+.Cards{
+    margin: 10px 20px;
+    display:inline-block;
+}
+
+.form-css{
+    margin: 15px;
+}
+
+.video-frame{
+    text-align: center;
+}
