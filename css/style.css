@@ -17,3 +17,8 @@
 .video-frame{
     text-align: center;
 }
+
+.about-section {
+    margin: 15px;
+    display: flex;
+}
